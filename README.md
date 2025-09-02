@@ -3,7 +3,7 @@
   <p>
     I’m full-stack web developer who loves creating clean, intuitive UIs and 
     building web applications that solve real problems for people. I’m still 
-    growing my skills and expanding my fullstack abilities, but I enjoy the 
+    growing my skills and expanding my full-stack abilities, but I enjoy the 
     process of learning, experimenting, and turning ideas into practical solutions.
   </p>
 
